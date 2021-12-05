@@ -7,14 +7,14 @@
 <br>
 
 <p align="center">
-  <img alt="Git Collection intro" src="src/assets/logo.png" width="100%" height="100%" >
+  <img alt="Git Collection intro" src="src/assets/logo.svg" width="100%" height="100%" >
 </p>
 
 ## 📚 Site
 
 In the link below you will find the complete responsive website.
 
--   [Git Collection](https://sea-jorney.vercel.app/)
+-   [Git Collection](https://type-script-git-colection.vercel.app/)
 
 ## 🚀 Technology
 
